@@ -8,11 +8,12 @@ Read more about the project [here] (https://docs.google.com/document/d/1ekds49Mo
 ## Webiste
 	
 
-Visit [the website](http://expressjs.com/en/starter/installing.html)
+Visit [the website](https://sleepy-wildwood-97787.herokuapp.com/)
 to follow development progress.
 
 ## Installation
 	* go to folder on your system
+	* open terminal into that folder
 	* clone this repository
 ```
 	git clone https://github.com/Build-One-Project/eservices.git
@@ -25,12 +26,12 @@ to follow development progress.
 ```
 	npm start
 ```
-	*
+	* Visit
 ```
-	Visit 127.0.0.1:3000 in your browser to see the project
+	127.0.0.1:3000 in your browser to see the project
 ```
 ## Tools
-This project uses
+
 	* ExpressJs for backend
 	* ReactJS for the frontend
 	* Heroku to host the live version
