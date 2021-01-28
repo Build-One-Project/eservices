@@ -19,6 +19,8 @@ Read more about the project [here] (https://docs.google.com/document/d/1ekds49Mo
 3. SR can request payment after delivering service
 
 ## Installation
+Watch [this video] (https://www.youtube.com/watch?v=X7KDWr2kr6g) to see how to install the project.
+
 0. go to folder on your system
 1. open terminal into that folder
 2. clone this repository
