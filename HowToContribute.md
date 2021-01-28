@@ -1,6 +1,6 @@
 ## HOW TO CONTRIBUTE TO ESERVICES PROJECT
 
-## Website 
+## Video Tutorial 
 
 Watch [this video](https://youtu.be/gP2l8AyWfqA)
 to learn how to contribute.
