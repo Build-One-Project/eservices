@@ -39,6 +39,6 @@ Read more about the project [here] (https://docs.google.com/document/d/1ekds49Mo
 
 ## Contributors
 	* Rufai Mustapha
-	* Bukason-Dev
+	* Godfrey
 
 
