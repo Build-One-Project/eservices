@@ -39,10 +39,13 @@ Watch [this video] (https://www.youtube.com/watch?v=X7KDWr2kr6g) to see how to i
 2. Heroku to host the live version
 
 
-## Contributors
-	 
-	livinus Ekenedilichukwu
-
+## Contributors	 
+	* Rufai Mustapha
+	* Godfrey
+  * livinus
+	
+## How To Contribute
+If you want to contribute to this project, check out [this file](https://github.com/Build-One-Project/eservices/blob/master/HowToContribute.md)
 
 
 
