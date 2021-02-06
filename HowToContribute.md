@@ -15,8 +15,8 @@ to follow development progress.
 1. go to [project] (https://github.com/Build-One-Project/eservices) and click on the STAR button at top-right
 `this will allow me to see your username and invite you to the project`
 
-2. create your own branch
-`git checkout -b yourname`
+2. create your own bra`git checkout -b yourname`nch
+
 
 
 3. Add your name to the contributors section in `README.md`
