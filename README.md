@@ -42,8 +42,10 @@ Watch [this video] (https://www.youtube.com/watch?v=X7KDWr2kr6g) to see how to i
 ## Contributors	 
 	* Rufai Mustapha
 	* Godfrey
-  	* livinus
+  * Ifunanya
+  * livinus
 	* Cornel
+
 	
 ## How To Contribute
 If you want to contribute to this project, check out [this file](https://github.com/Build-One-Project/eservices/blob/master/HowToContribute.md)
