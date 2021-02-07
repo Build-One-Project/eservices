@@ -6,4 +6,9 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'EServices' });
 });
 
+/* GET together page. */
+router.get('/together', function(req, res, next) {
+  res.render('together'});
+});
+
 module.exports = router;
