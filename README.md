@@ -4,6 +4,8 @@
 Visit [the website](https://sleepy-wildwood-97787.herokuapp.com/)
 to follow development progress.
 
+## Where is the UI file
+The design file is [here](https://www.figma.com/file/ck62sYmvYXyXrxEcbKPNIw/Untitled?node-id=1%3A2)
 ## About
 Get artisans ( service providers ) to get your job done.
 
@@ -41,11 +43,14 @@ Watch [this video] (https://www.youtube.com/watch?v=X7KDWr2kr6g) to see how to i
 
 ## Contributors	 
 	* Rufai Mustapha
+  * surejenny
+	* Jennifer Elix
 	* Godfrey
+  * Ifunanya
   * livinus
 	* paragonSabi
-	
-	
+	* Cornel
+
 ## How To Contribute
 If you want to contribute to this project, check out [this file](https://github.com/Build-One-Project/eservices/blob/master/HowToContribute.md)
 
