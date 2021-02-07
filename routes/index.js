@@ -12,4 +12,9 @@ router.get('/contact', function(req, res, next) {
   res.render('contact');
 });
 
+/* GET together. */
+router.get('/together', function(req, res, next) {
+  res.render('together');
+});
+
 module.exports = router;
