@@ -8,7 +8,7 @@ router.get('/', function(req, res, next) {
 
 /* GET together page. */
 router.get('/together', function(req, res, next) {
-  res.render('together'});
+  res.render('together');
 });
 
 module.exports = router;
