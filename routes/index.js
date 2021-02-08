@@ -6,7 +6,13 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'EServices' });
 });
 
-/* GET together page. */
+/* GET contact page. */
+
+router.get('/contact', function(req, res, next) {
+  res.render('contact');
+});
+
+/* GET together page */
 router.get('/together', function(req, res, next) {
   res.render('together');
 });
