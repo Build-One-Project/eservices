@@ -12,7 +12,7 @@ router.get('/contact', function(req, res, next) {
   res.render('contact');
 });
 
-/* GET together. */
+/* GET together page */
 router.get('/together', function(req, res, next) {
   res.render('together');
 });
