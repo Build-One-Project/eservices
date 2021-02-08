@@ -1,6 +1,6 @@
 ## How This Code Base Works
 
-Watch this [video](https://youtu.be/RxzXNmwe5NE)
+
 
 ## Folders
 --> *bin

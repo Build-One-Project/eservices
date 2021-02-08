@@ -12,4 +12,9 @@ router.get('/contact', function(req, res, next) {
   res.render('contact');
 });
 
+/* GET location page. */
+router.get('/', function(req, res, next) {
+  res.render('location');
+});
+
 module.exports = router;
