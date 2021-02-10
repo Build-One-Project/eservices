@@ -17,4 +17,9 @@ router.get('/', function(req, res, next) {
   res.render('together');
 });
 
+/* GET search page. */
+router.get('/', function(req, res, next) {
+  res.render('search');
+});
+
 module.exports = router;
