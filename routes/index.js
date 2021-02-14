@@ -1,9 +1,10 @@
 var express = require('express');
 var router = express.Router();
+var nigeria_states_lga = require("../public/javascripts/nigeria.json")
 
 /* GET home page. */
-router.get('/', function(req, res, next) {
-  res.render('index', { title: 'EServices' });
+router.get('/', function(req, res, next) {  
+  res.render('index', { title: 'EServices', books: ["Baba", "Mama", "Papa"], data: nigeria_states_lga })
 });
 
 /* GET contact page. */

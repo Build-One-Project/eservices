@@ -1,15 +1,18 @@
 extends layout
 
 block content
-  
+ 
+
   h1= title
   p Welcome to #{title}
+ 
   p
     a(href="/") Home
   p
     a(href="/contact") Contact
   p
     a(href="/together") Together
+
   h3 Those who have contributed to this project
   ul
     li Rufai Mustapha
@@ -19,6 +22,30 @@ block content
     li Cornel
     li surejenny
     li paragonsabi
+
+  h3 State in Nigeria
+  
+  select#states_in_nigeria
+    each item, index in data
+      option(value=index) #{item.state.name}
+    
+  h3 LGA in 
+
+  select#(name="lga_in_state")
+    each item, index in books
+      option(value=index) #{item}
+  
+
+  h3 LGAs in 
+
+
+
+  
+
+ 
+
+ 
+
 
 
 
