@@ -1,11 +1,12 @@
 
-[
+let nigeria = [
 	{"state":
 		{"name":
 			"Abia State","id":1,"locals":[{"name":"Aba South","id":1},{"name":"Arochukwu","id":2},{"name":"Bende","id":3},{"name":"Ikwuano","id":4},{"name":"Isiala Ngwa North","id":5},{"name":"Isiala Ngwa South","id":6},{"name":"Isuikwuato","id":7},{"name":"Obi Ngwa","id":8},{"name":"Ohafia","id":9},{"name":"Osisioma","id":10},{"name":"Ugwunagbo","id":11},{"name":"Ukwa East","id":12},{"name":"Ukwa West","id":13},{"name":"Umuahia North","id":14},{"name":"Umuahia South","id":15},{"name":"Umu Nneochi","id":16}]}},
 		
 	{"state":
 		{"name":"Adamawa State","id":2,"locals":[{"name":"Fufure","id":1},{"name":"Ganye","id":2},{"name":"Gayuk","id":3},{"name":"Gombi","id":4},{"name":"Grie","id":5},{"name":"Hong","id":6},{"name":"Jada","id":7},{"name":"Lamurde","id":8},{"name":"Madagali","id":9},{"name":"Maiha","id":10},{"name":"Mayo Belwa","id":11},{"name":"Michika","id":12},{"name":"Mubi North","id":13},{"name":"Mubi South","id":14},{"name":"Numan","id":15},{"name":"Shelleng","id":16},{"name":"Song","id":17},{"name":"Toungo","id":18},{"name":"Yola North","id":19},{"name":"Yola South","id":20}]}},
+		
 	{"state":
 		{"name":"Akwa Ibom State","id":3,"locals":[{"name":"Eastern Obolo","id":1},{"name":"Eket","id":2},{"name":"Esit Eket","id":3},{"name":"Essien Udim","id":4},{"name":"Etim Ekpo","id":5},{"name":"Etinan","id":6},{"name":"Ibeno","id":7},{"name":"Ibesikpo Asutan","id":8},{"name":"Ibiono-Ibom","id":9},{"name":"Ika","id":10},{"name":"Ikono","id":11},{"name":"Ikot Abasi","id":12},{"name":"Ikot Ekpene","id":13},{"name":"Ini","id":14},{"name":"Itu","id":15},{"name":"Mbo","id":16},{"name":"Mkpat-Enin","id":17},{"name":"Nsit-Atai","id":18},{"name":"Nsit-Ibom","id":19},{"name":"Nsit-Ubium","id":20},{"name":"Obot Akara","id":21},{"name":"Okobo","id":22},{"name":"Onna","id":23},{"name":"Oron","id":24},{"name":"Oruk Anam","id":25},{"name":"Udung-Uko","id":26},{"name":"Ukanafun","id":27},{"name":"Uruan","id":28},{"name":"Urue-Offong\/Oruko","id":29},{"name":"Uyo","id":30}]}},
 	
